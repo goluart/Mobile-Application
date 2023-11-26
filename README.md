@@ -12,6 +12,10 @@ This mobile application is a simple shopping list management system that allows 
 * React Navigation
 * Expo
 
+## Installation
+* Android Play Store build https://expo.dev/artifacts/eas/rm3RARhnQTVNzmMEh189oW.apk
+* iOS simulator build https://expo.dev/artifacts/eas/p7gNqJzuLeKGjNXGX9sJoq.tar.gz
+
 ## Screenshots
 <p>
 <img src="https://i.imgur.com/LXAhXuw.jpg" width="250" height="500">
